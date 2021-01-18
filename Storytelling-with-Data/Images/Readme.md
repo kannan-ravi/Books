@@ -1,0 +1,3 @@
+This folder contains all the images for these books...
+
+Make sure you won't delete these.
